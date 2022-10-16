@@ -1,5 +1,6 @@
 # GI_renderer
 A global illumination framework for rendering photorealistic images.
+After running the demo you will get the following rendered image:
 ![final_render](https://user-images.githubusercontent.com/18594210/196041689-847f1da1-84be-4383-947b-ddd3b458b35b.png)
 
 Implemented features:
